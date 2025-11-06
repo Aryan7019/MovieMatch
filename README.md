@@ -3,7 +3,7 @@
 A smart movie recommendation system built with **Streamlit** that suggests similar movies based on content-based filtering using machine learning.
 
 ## 🚀 Live Demo
-**[Try it live on Streamlit Cloud!](https://cinematch-movie-recommendations.streamlit.app)**
+**[Try it live on Streamlit Cloud!](https://moviesmatchh.streamlit.app)**
 
 ## ✨ Features
 - 🎭 **4,800+ Movies** from TMDB dataset
